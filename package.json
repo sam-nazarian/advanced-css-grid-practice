@@ -1,0 +1,22 @@
+{
+  "name": "advanced-css-grid-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samanfathnazarian/advanced-css-grid-practice.git"
+  },
+  "author": "Saman Fathnazarian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samanfathnazarian/advanced-css-grid-practice/issues"
+  },
+  "homepage": "https://github.com/samanfathnazarian/advanced-css-grid-practice#readme",
+  "dependencies": {
+    "sass": "^1.56.1"
+  }
+}
